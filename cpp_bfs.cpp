@@ -62,7 +62,7 @@ int main() {
 	// 큐에 childnode를 담을 때 최상단부터 아래가 오름차순이 되기 위해
 	// 그래프 내부의 노드 순서를 greater<>()을 사용하여 내림차순
 
-	bfs(start, graph, check); // bfs 시작
+	bfs(start, graph, check); // bfs 시작 
 
 
 
